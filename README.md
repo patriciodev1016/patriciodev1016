@@ -38,10 +38,13 @@
 
 <h2>📜 Focused on</h2>
 
-- 🔹 Web & Mobile Frontend Dev
-- 🔹 Node.js | .Net Entity Framework | Ruby on Rails | Laravel - Full-stack Dev
-- 🔹 Browser-based Game | Metaverse Specialist
-
+- 🔹 Frontend Specialist in React, Angular, Vue, Next, Svelte, TailwindCSS, MUI, Antd, Bootstrap.
+- 🔹 Backend Specialist in ASP.Net Core, Ruby on Rails, Node.js
+- 🔹 Restful, GraphQL, 3rd Party, Web3 API integtation
+- 🔹 MS-SQL, PostgreSQL, MongoDB, MySQL/MaraiDB
+- 🔹 Software Engineering methodology, Software Design Patter, Database Architecture/Design, DevOps
+- 🔹 Amazon Elastic Beanstalk, Digital Ocean, Heroku
+ 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
 <p align="left">
