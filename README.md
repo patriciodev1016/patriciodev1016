@@ -1,10 +1,10 @@
-<h1>React/React Native, Vue, Angular, ASP.Net Core, Ruby on Rails</h1>
+<h1>Ruby on Rails(React, Vue.js)/ASP.Net Core(Angular)</h1>
 <h2>👋 About me</h2>
 
 - 💻 High skilled Top-notch Full-stack Engineer with tons of hands on experience
 - 💪 I am a specialist in
-  * React, Angular, Vue.js, Svelte.js, Gatsby.js, Three.js ...
-  * ASP.Net Core, Ruby on Rails, Node.js ...
+  * React, Angular, Vue.js, Svelte.js, Tailwind CSS, Three.js ...
+  * Ruby on Rails, ASP.Net Core, Node.js ...
 - ⏰ Working on EST timezone.
 - 📙 Responsive Communication.
 - 👊 Long-term relationship based on `Win-Win` methodology
@@ -39,7 +39,7 @@
 <h2>📜 Focused on</h2>
 
 - 🔹 Frontend Specialist in React, Angular, Vue, Next, Svelte, TailwindCSS, MUI, Antd, Bootstrap.
-- 🔹 Backend Specialist in ASP.Net Core, Ruby on Rails, Node.js
+- 🔹 Backend Specialist in Ruby on Rails, ASP.Net Core, Node.js
 - 🔹 Restful, GraphQL, 3rd Party, Web3 API integtation
 - 🔹 MS-SQL, PostgreSQL, MongoDB, MySQL/MaraiDB
 - 🔹 Software Engineering methodology, Software Design Patter, Database Architecture/Design, DevOps
